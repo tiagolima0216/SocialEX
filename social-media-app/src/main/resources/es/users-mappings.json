@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "username": { "type": "text", "analyzer": "autocomplete", "search_analyzer": "autocomplete" },
+    "displayName": { "type": "text", "analyzer": "autocomplete", "search_analyzer": "autocomplete" },
+    "bio": { "type": "text", "index": false },
+    "profilePicture": { "type": "keyword", "index": false }
+  }
+}

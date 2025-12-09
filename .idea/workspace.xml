@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04e18052-202c-427c-8c13-ec160bc90b87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/google.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/postcss.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/public/SocialEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/public/default_profile_SocialEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/public/icon_SocialEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/public/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/public/word_SocialEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/api/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/api/usePushNotifications.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/AuthForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/BottomMenu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/ChatMessage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/ConversationsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/EditProfilePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/EditProfilePicture.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/FriendRequests.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/MainPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/MessagesPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/MessagesTab.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/NotificationButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/PostCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/ProfilePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/components/UserSearch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/hooks/useMessages.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/hooks/useProfileImage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/hooks/useStomp.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/models/Conversation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/models/LoginResponse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/models/Message.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/models/Post.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/models/UserDto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/utils/cropImage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/tailwind.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app-frontend/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/SocialMediaAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/config/AuthHandshakeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/controllers/ErrorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/controllers/FriendController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/controllers/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/controllers/PushController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/controllers/SearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/documents/UserSearchDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/dtos/ApiErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/dtos/EditUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/dtos/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/dtos/LoginResponseWithRefreshCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/dtos/LoginUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/dtos/SignupResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/dtos/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/entities/Conversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/entities/FriendRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/entities/Friendship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/entities/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/entities/NotificationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/entities/PushSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/domain/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/kafka/KafkaTopics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/kafka/consumers/UserEventConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/kafka/events/UserEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/kafka/producers/UserEventProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/mappers/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/ConversationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/FriendRequestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/FriendshipRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/NotificationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/PushSubscriptionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/StartupIndexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/repositories/searchRepositories/UserSearchRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/security/JwtAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/security/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/FriendService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/UserIndexerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/UserSearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/impl/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/impl/FriendServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/impl/MessageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/impl/NotificationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/impl/UserIndexerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/impl/UserSearchServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/java/com/tiago_lima/social_media_app/utils/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/resources/es/users-mappings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/main/resources/es/users-settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/18ac4666-dd80-4881-a106-0a6a8f1ca08c_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/2325f3be-60b2-439b-bcd3-805ccea2e50f_9cb3bb37-carrossel-croissant-tm-croissant-folhados-brioches-claudia-rezende-6605-baixa-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/2325f3be-60b2-439b-bcd3-805ccea2e50f_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/2325f3be-60b2-439b-bcd3-805ccea2e50f_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/2325f3be-60b2-439b-bcd3-805ccea2e50f_robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/23d29050-e713-4406-ba5a-2ffa2e486a0b_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/342be969-87ae-4d09-a721-2d29b356a8c0_1760630616170_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/3d57c2eb-b744-4ef1-9303-30e190f627c7_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/4b180255-317e-4e8e-a138-a2f0bbdcd601_1757927904790_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/4dc8959b-67aa-4638-ad86-793767f74235_1757777097713_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/55fd0e83-01ea-4026-8726-61ba8875a308_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/7e073a6d-6a0a-44a5-8d31-020420279e9f_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/8d503999-609b-4a67-89c6-881a49a6438d_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/9487069a-5662-4141-8f54-5e16fb97175b_1757871769923_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/98f91469-69cb-4fd3-9f23-0dd46f0df45b_1757718496311_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/98f91469-69cb-4fd3-9f23-0dd46f0df45b_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/98f91469-69cb-4fd3-9f23-0dd46f0df45b_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/9ba8dc26-c812-480f-bc98-9845d4321e94_1765223705497_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/abc93db3-dcdc-4766-b00d-7c93c32a0753_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/c352c64b-1cb7-478e-a32c-d8a516b59809_1757869933157_profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media-app/uploads/profile-pictures/f5af5eb6-2bb4-48df-9db2-6e1a29a42af7_mario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="36cVdJar05JGKkXA0KC5si3ZJ8l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tiago Lima/Desktop/Universidade/SocialEX&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Tiago Lima\\Desktop\\Universidade\\SocialEX\\social-media-app-frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiago Lima\Desktop\Universidade\SocialEX" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e18052-202c-427c-8c13-ec160bc90b87" name="Changes" comment="" />
+      <created>1765305933318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765305933318</updated>
+      <workItem from="1765305934873" duration="2758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

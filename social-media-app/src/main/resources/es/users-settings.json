@@ -1,0 +1,20 @@
+{
+  "index.max_ngram_diff": 18,
+  "analysis": {
+    "analyzer": {
+      "autocomplete": {
+        "type": "custom",
+        "tokenizer": "autocomplete",
+        "filter": ["lowercase"]
+      }
+    },
+    "tokenizer": {
+      "autocomplete": {
+        "type": "ngram",
+        "min_gram": 2,
+        "max_gram": 20,
+        "token_chars": ["letter", "digit"]
+      }
+    }
+  }
+}
